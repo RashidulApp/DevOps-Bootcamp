@@ -30,6 +30,8 @@ class User:
     def changeJobTitle(self, jobTitle):
         self.jobTitle = jobTitle
 
+        
+
     def displayUserInfo(self):
         print(f"Name: {self.name}")
         print(f"Email: {self.email}")
