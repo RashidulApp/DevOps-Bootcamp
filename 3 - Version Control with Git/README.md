@@ -1,8 +1,5 @@
 ### Version Control with Git
 
-#### Video Resource
-Explore the comprehensive DevOps Bootcamp lecture on Version Control with Git [here](https://techworld-with-nana.teachable.com/courses/devops-bootcamp/lectures/29436454).
-
 #### 1. Understanding Version Control
 
 Version control is essential for collaborative coding projects. Here are the key aspects:
