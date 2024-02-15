@@ -1,9 +1,5 @@
 Title: Introduction to DevOps - A Comprehensive Overview
 
-Course Link: [DevOps Bootcamp](https://techworld-with-nana.teachable.com/courses/devops-bootcamp/lectures/29537893)
-
-## Bootcamp Overview
-
 ### Learn DevOps Concepts:
 
 1. **Test ➔ Build ➔ Deploy ➔ Configure ➔ Maintain**
